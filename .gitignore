@@ -1,0 +1,14 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+Library
+Temp
+
+.vs/
+*.csproj
+*.sln
+obj/
+/Assets/Z_test
+/Assets/Z_test.meta
